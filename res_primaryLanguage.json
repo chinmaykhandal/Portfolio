@@ -1,0 +1,109 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Chinmay Khandal. Curious & Creative; that's how I would describe myself if I had only two words to do so. I love to experiment with new technologies of any domain, but mostly I find myself enjoying frontend stuff. I'm a CSE undergrad in my final year and I'm looking for frontend internships where I can contribute and learn, and also join as a full timer if given a chance to create an even bigger impact. 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Mausam",
+        "startDate": "April 2022",
+        "description": "- Mausam is a web app developed in react which shows the weather statistics of a city when you enter the name of that particular city. Mausam uses OpenWeatherMap API to fetch weather statistics.",
+        "images": [
+          "images/portfolio/mausam/p1.png",
+          "images/portfolio/mausam/p2.png"
+        ],
+        "url": "https://mausam-weather-app.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Spotify Clone",
+        "startDate": "May 2022",
+        "description": "Developed a web app which mimics the design and also basic functionalities of popular music streaming platform - Spotify.",
+        "images": [
+          "images/portfolio/spotify-clone/p1.png",
+          "images/portfolio/spotify-clone/p2.png"
+        ],
+        "url": "https://spotify-adbd.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Expense Tracker",
+        "startDate": "2015",
+        "description": "- A minimalistic Expense Tracker app to keep track of your expenses and income. ",
+        "images": [
+          "images/portfolio/expenseTracker/expenseTracker.png"
+        ],
+        "url": "https://chinmaykhandal.github.io/react-expense-tracker/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "MyEra Technologies",
+        "title": "Front-End Developer Intern",
+        "years": "04.2022 - present",
+        "mainTech": [
+          "React",
+          "Javascript"
+        ],
+        "technologies": [
+          "ReactJS",
+          "JavaScript",
+          "Material UI",
+          "React-Bootstrap",
+          "Git Github",
+          "REST API"
+        ]
+      },
+      {
+        "company": "Reczee",
+        "title": "Full Stack Developent Intern",
+        "years": "08.2022 - 09.2022",
+        "mainTech": [
+          "React",
+          "Javascript",
+          "Ruby On Rails"
+        ],
+        "technologies": [
+          "ReactJS",
+          "Javascript",
+          "Ruby On Rails",
+          "Material UI",
+          "Git Github"
+        ]
+      }
+    ]
+  }
