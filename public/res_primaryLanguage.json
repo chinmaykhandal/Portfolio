@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Chinmay Khandal. Curious & Creative; that's how I would describe myself if I had only two words to do so. I love to experiment with new technologies of any domain, but mostly I find myself enjoying frontend stuff. I'm a CSE undergrad in my final year and I'm looking for frontend internships where I can contribute and learn, and also join as a full timer if given a chance to create an even bigger impact. 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Mausam",
+        "startDate": "April 2022",
+        "description": "- Mausam is a web app developed in react which shows the weather statistics of a city when you enter the name of that particular city. Mausam uses OpenWeatherMap API to fetch weather statistics.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/mausam/p1.png",
+          "images/portfolio/mausam/p2.png"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://mausam-weather-app.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,63 +31,94 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Spotify Clone",
+        "startDate": "May 2022",
+        "description": "Developed a web app which mimics the design and also basic functionalities of popular music streaming platform - Spotify.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/spotify-clone/p1.png",
+          "images/portfolio/spotify-clone/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://spotify-adbd.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Expense Tracker",
+        "startDate": "2015",
+        "description": "- A minimalistic Expense Tracker app to keep track of your expenses and income. ",
+        "images": [
+          "images/portfolio/expenseTracker/expenseTracker.png"
+        ],
+        "url": "https://chinmaykhandal.github.io/react-expense-tracker/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "DBS Tech India(DBS Bank)",
+        "title": "Development Intern",
+        "years": "02.2022 - Present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Spring Boot",
+          "Java",
+          "Angular"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Spring Boot",
+          "Java",
+          "Angular",
+          "Git"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "MyEra Technologies",
+        "title": "Front-End Developer Intern",
+        "years": "04.2022 - present",
         "mainTech": [
-          "Angular 7/8"
+          "React",
+          "Javascript"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "ReactJS",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Material UI",
+          "React-Bootstrap",
+          "Git Github",
+          "REST API"
+        ]
+      },
+      {
+        "company": "Reczee",
+        "title": "Full Stack Developent Intern",
+        "years": "08.2022 - 09.2022",
+        "mainTech": [
+          "React",
+          "Javascript",
+          "Ruby On Rails"
+        ],
+        "technologies": [
+          "ReactJS",
+          "Javascript",
+          "Ruby On Rails",
+          "Material UI",
+          "Git Github"
         ]
       }
     ]
